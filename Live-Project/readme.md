@@ -68,7 +68,14 @@ The Build the Basic App story tasked me with building the base for my mainapp, t
 
 ### Api
 ![This is an image](./img/download11.png)
+Styling coming soon!
 
 ### Beautiful Soup
 ![This is an image](./img/download12.png)
+Styling coming soon!
 
+## Conclusion
+
+Taking part in this live project was a really great learning experience for me.  I was challenged in both front-end and back-end development, pushing the boundaries of my knowledge and abilities.  These challenges proved to be valuable as they pushed me out of my comfort zone and improved my problem-solving skills.
+
+I now realize the value of self teaching and accepting new challenges.  Moving on from this project I am even more confident and motivated to become a software developer and am eager to apply these fresh skills in the near future.
