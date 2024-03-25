@@ -20,19 +20,19 @@ The edit and delete Functions story comprised mainly of adding buttons to my det
 ![This is an image](./img/download.png)
 
 ### Form model Snippet
-![This is an image](./img/download(1).png)
+![This is an image](./img/download1.png)
 
 ###  Edit And Delete Snippet
-![This is an image](./img/download(2).png)
+![This is an image](./img/download2.png)
 
 ### Edit And Delete Confirmation Snippet
-![This is an image](./img/download(3).png)
+![This is an image](./img/download3.png)
 
 ### Edit And Delete Modal JS Snippet
-![This is an image](./img/download(4).png)
+![This is an image](./img/download4.png)
 
 ### Edit And Delete Snippet
-![This is an image](./img/download(1).png)
+![This is an image](./img/download5.png)
 
 
 
