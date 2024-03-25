@@ -39,6 +39,36 @@ The edit and delete Functions story comprised mainly of adding buttons to my det
 
 ## Front End Stories
 
-<p> 
+* Display Items in Database
+* Build the Basic App
 
-</p>
+The Display Items in Database story tasked me with creating a new html template that would gather all of my items in the database and present them in an organized manner.  I was really able to put my CSS skills to the test here.
+
+The Build the Basic App story tasked me with building the base for my mainapp, this included the creation of the mainapp using python terminal commands (python manage.py startapp), then creating the base and home templates.  As well as creating a function to render the home page.  I poured many hours of styling into this and the rest of the templates and am quite happy with the outcome.
+
+
+
+## Snippets of My App
+
+
+### Link to Car App
+![This is an image](./img/download6.png)
+
+### Home Page
+![This is an image](./img/download7.png)
+
+### Create Page
+![This is an image](./img/download9.png)
+
+### Database List Page
+![This is an image](./img/download8.png)
+
+### Details Page
+![This is an image](./img/download10.png)
+
+### Api
+![This is an image](./img/download11.png)
+
+### Beautiful Soup
+![This is an image](./img/download12.png)
+
